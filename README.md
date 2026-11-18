@@ -16,3 +16,14 @@ It's not for this game only, many games is being and will be revived by this pro
 this is the just the first one.
 
 So thanks and consider contributing if you are an enthusiast or A modder or A dev.
+### Gallery
+
+<p align="center">
+  <img src="./preview/image1.png" alt="First view" width="80%"><br>
+  <em>Caption or description for the first image</em>
+</p>
+
+<p align="center">
+  <img src="./preview/image2.png" alt="Second view" width="80%"><br>
+  <em>Caption or description for the second image</em>
+</p>
