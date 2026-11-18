@@ -19,11 +19,21 @@ So thanks and consider contributing if you are an enthusiast or A modder or A de
 ### Gallery
 
 <p align="center">
-  <img src="./preview/image1.png" alt="First view" width="80%"><br>
-  <em>Caption or description for the first image</em>
+  <img src="./preview/image1.png" alt="First view" width="100%"><br>
 </p>
 
 <p align="center">
   <img src="./preview/image2.png" alt="Second view" width="80%"><br>
-  <em>Caption or description for the second image</em>
+</p>
+<p align="center">
+  <img src="./preview/image3.png" alt="third view" width="80%"><br>
+</p>
+<p align="center">
+  <img src="./preview/image4.png" alt="fourth view" width="80%"><br>
+</p>
+<p align="center">
+  <img src="./preview/image5.png" alt="fifth view" width="80%"><br>
+</p>
+<p align="center">
+  <img src="./preview/image6.png" alt="Sixth view" width="80%"><br>
 </p>
