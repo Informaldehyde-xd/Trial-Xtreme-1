@@ -8,7 +8,7 @@ Hello!
 well here's the game launcher only. ;)
 it's just install and play.
 
-*How it works:
+*How it works:*
 IX32PSL is a Shim layer, based on Dynarmic. that acts as a JIT TRANSLATION LAYER 
 and the Shell between 32-bit game codes and the Latest Android versions for Modern phones.
 
